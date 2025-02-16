@@ -26,7 +26,7 @@ export default function Navbar() {
           </div>
           <div className="flex items-center space-x-4">
             <Link href="https://pay.kiwify.com.br/QSd9xyU" target="_blank" className="bg-white text-black font-bold py-3 px-4 rounded-md text-sm hover:opacity-90 transition duration-300">
-              Garanta seu acesso agora
+              GARANTIR MEU EBOOK
             </Link>
           </div>
         </div>
